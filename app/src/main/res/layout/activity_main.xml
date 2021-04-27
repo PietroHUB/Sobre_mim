@@ -8,4 +8,8 @@
     tools:context=".MainActivity">
 
 
+    <TextView
+        android:id="@+id/name_text"
+        android:text="@string/texto_name"
+        style="@style/Estilo_name" />
 </LinearLayout>
